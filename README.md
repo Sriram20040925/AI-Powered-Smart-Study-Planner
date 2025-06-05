@@ -153,5 +153,5 @@ SOFTWARE.
 
 For any questions or suggestions, feel free to reach out:
 
-- *Email*: [subbiahkarthickcse@gmail.com](mailto:dhanaganapathi73@gmail.com)  
+- *Email*: [dhanaganapathi73@gmail.com](mailto:dhanaganapathi73@gmail.com)  
 - *GitHub*: [Sriram20040925](https://github.com/Sriram20040925)
